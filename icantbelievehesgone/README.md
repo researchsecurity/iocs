@@ -76,7 +76,7 @@ Securing what's reasonable, 1 keystroke at a time.
 - `UPSS`
 - `USS`
 
-Footprints
+# Footprints
 
 | SubDomain | Domain  |  |  | | | |
 |--------|-----------|-------|---------|--------|----------|----------|
